@@ -9,7 +9,7 @@ import {
   Text,
 } from "@radix-ui/themes";
 import classNames from "classnames";
-import { useSession } from "next-auth/react";
+//import { useSession } from "next-auth/react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { FaBug } from "react-icons/fa";
